@@ -4,9 +4,6 @@
 
 <h2 align="left">Welcome to my git pagee</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/datamann1013/datamann1013/output/snake.svg" alt="Snake animation" />
 
 ###
 
