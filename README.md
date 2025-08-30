@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph.svg">
 </picture>
 
@@ -132,10 +132,3 @@
 </div>
 
 ###
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datamann1013&layout=compact)
-
-
-  
-
