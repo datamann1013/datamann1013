@@ -8,7 +8,6 @@
 
 <div align="center" style="background:#23272e;padding:24px 0;border-radius:12px;margin:24px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph-dark.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/datamann1013/datamann1013/output/pacman-contribution-graph-dark.svg" style="border-radius:8px;box-shadow:0 2px 8px #111;" />
   </picture>
 </div>
