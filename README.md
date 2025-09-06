@@ -1,9 +1,6 @@
 
 <div align="center" style="background:#181818;padding:32px 0 16px 0;border-radius:16px;box-shadow:0 2px 16px #222;">
   <h1 style="color:#e2e2e2;font-family:'Segoe UI',sans-serif;font-size:2.5em;margin-bottom:0.2em;">Hi! I'm <span style="color:#8be9fd;">Auronex</span>!</h1>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=datamann1013&label=Profile%20views&color=8be9fd&style=flat" alt="datamann1013" />
-  </p>
 </div>
 
 ###
@@ -31,7 +28,7 @@
 
 ###
 
-<div align="center" style="background:#23272e;padding:24px 0 16px 0;border-radius:12px;margin:24px 0;">
+<div align="center" style="background:#3a3a3a;padding:24px 0 16px 0;border-radius:12px;margin:24px 0;box-shadow:0 2px 8px #222;">
 
   <h2 style="color:#8be9fd;font-family:'Segoe UI',sans-serif;margin-bottom:1em;">Tech Stack & Tools</h2>
   <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
